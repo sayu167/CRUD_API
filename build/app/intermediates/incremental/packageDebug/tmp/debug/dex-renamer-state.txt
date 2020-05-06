@@ -1,0 +1,4 @@
+#Wed May 06 11:01:20 SGT 2020
+base.0=C\:\\flutter_crud_api_sample_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
